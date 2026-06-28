@@ -19,9 +19,7 @@
 
 ## Preview
 
-<!-- Screenshot → save as preview.png → upload to repo -->
-
-![BloomPath Preview](dashboard.png,skillmatrix.png)
+![BloomPath Preview](dashboard.png)
 
 ---
 
