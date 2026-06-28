@@ -21,7 +21,7 @@
 
 <!-- Screenshot → save as preview.png → upload to repo -->
 
-![BloomPath Preview](preview.png)
+![BloomPath Preview](dashboard.png,skillmatrix.png)
 
 ---
 
